@@ -15,7 +15,7 @@ A continuación, se mostrarán todos los requisitos necesarios para el desarroll
 * El videojuego debe ser entendible, claro y amigable para el usuario. Es decir, el equipo detrabajo debe definir los elementos caracteres, 
 símbolos que debe usar y ser coherentecon el tema elegido.
 
-## Personaje principal :octocat:
+## Personaje principal : octocat:
 * Es el actor principal que tiene la responsabilidad de cumplir la misión definida, la misma que estará asociada al objetivo para desarrollar las preguntas de cultura general.
 * Puede tener vidas y/o poderes.
 * Está representado por un conjunto de caracteres (Ascii Art) en consola, debe sercoherente con el contexto elegido.
